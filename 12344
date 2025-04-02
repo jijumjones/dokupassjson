@@ -1,0 +1,1 @@
+"{\r\n  \"shipper\" : {\r\n    \"address\" : null,\r\n    \"contact\" : null,\r\n    \"name\" : null,\r\n    \"email\" : null\r\n  },\r\n  \"consignee\" : {\r\n    \"address\" : null,\r\n    \"contact\" : null,\r\n    \"name\" : null,\r\n    \"email\" : null\r\n  },\r\n  \"inwardDocId\" : 5,\r\n  \"bolNumber\" : \"12344\"\r\n}"
