@@ -1,0 +1,1 @@
+"{\n  \"shipper\" : {\n    \"address\" : null,\n    \"contact\" : null,\n    \"name\" : null,\n    \"email\" : null\n  },\n  \"consignee\" : {\n    \"address\" : null,\n    \"contact\" : null,\n    \"name\" : null,\n    \"email\" : null\n  },\n  \"inwardDocId\" : 2,\n  \"bolNumber\" : \"TestBOL2\"\n}"
